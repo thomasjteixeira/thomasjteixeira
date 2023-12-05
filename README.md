@@ -1,29 +1,30 @@
-### Olá, sou o Thómas Jéfferson 👋
+# Olá, sou o Thómas Jéfferson 👋
+
+## Desenvolvedor Fullstack e Professor de TI
+
+### Sobre Mim
+Sou especializado em **Ruby on Rails** e **React**, atuando como desenvolvedor fullstack e também como professor na área de Tecnologia da Informação no Centro Universitário - UniFG. Além disso, possuo experiência em gestão, tendo trabalhado como coordenador dos cursos de TI.
 
 
-<div style="display: inline_block"><br>
+### 🛠️ Minhas Skills Técnicas
 
-  <a href="https://www.linkedin.com/in/thomasjteixeira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-</div>
+#### Desenvolvimento Web
+- **Linguagens de Programação**: Ruby, JavaScript, TypeScript, Java
+- **Frameworks e Bibliotecas**: Ruby on Rails, React, Node.js, AngularJS
+- **Banco de Dados**: PostgreSQL, MongoDB
+- **Infraestrutura e DevOps**: Linux, Docker, [AWS](https://credly.com/badges/9f847bd3-5959-4073-b6dc-0cd19f4b4e15)
 
-  ##
-  
-<div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-</div>
-  
-<div style="display: inline_block"><br>  
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-</div>
+#### Boas Práticas de Desenvolvimento
+- Test-Driven Development (TDD)
+- Clean Code
+- SOLID
+- RESTful
+- Padrão Model-View-Controller (MVC)
 
-<div style="display: inline_block"><br>  
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-</div>
+#### Metodologias Ágeis
+- SCRUM
+- Kanban
 
-<div style="display: inline_block"><br>  
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</div>
+#### Ferramentas de Desenvolvimento
+- Git/GitHub
+- RSpec
