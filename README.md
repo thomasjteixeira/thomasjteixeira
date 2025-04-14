@@ -3,7 +3,7 @@
 ## Desenvolvedor Fullstack e Professor de TI
 
 ### Sobre Mim
-Sou especializado em **Ruby on Rails** e **React**, atuando como desenvolvedor fullstack e também como professor na área de Tecnologia da Informação no Centro Universitário - UniFG. Além disso, possuo experiência em gestão, tendo trabalhado como coordenador dos cursos de TI.
+Sou especializado em **Ruby on Rails**, atuando como desenvolvedor fullstack com **React** e **Hotwire e Stimulus**. Além disso, tenho sólida experiência em gestão acadêmica e ensino, tendo atuado como coordenador e docente nos cursos de TI do Centro Universitário - UniFG. 
 
 
 ### 🛠️ Minhas Skills Técnicas
