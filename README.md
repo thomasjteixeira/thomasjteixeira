@@ -9,9 +9,9 @@ Sou especializado em **Ruby on Rails**, atuando como desenvolvedor fullstack com
 ### 🛠️ Minhas Skills Técnicas
 
 #### Desenvolvimento Web
-- **Linguagens de Programação**: Ruby, JavaScript, TypeScript, Java
-- **Frameworks e Bibliotecas**: Ruby on Rails, React, Node.js, AngularJS
-- **Banco de Dados**: PostgreSQL, MongoDB
+- **Linguagens de Programação**: Ruby, JavaScript, TypeScript;
+- **Frameworks e Bibliotecas**: Ruby on Rails, React, Hotwire, Stimulus, Node.js, AngularJS;
+- **Banco de Dados**: PostgreSQL, MongoDB;
 - **Infraestrutura e DevOps**: Linux, Docker, [AWS](https://credly.com/badges/9f847bd3-5959-4073-b6dc-0cd19f4b4e15)
 
 #### Boas Práticas de Desenvolvimento
